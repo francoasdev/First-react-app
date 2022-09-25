@@ -6,4 +6,4 @@ This is a clone of testimonial section of freecodecamp
 
 Very basic app using html,css, jsx and props
 
-<img src="https://prnt.sc/DbhGi5sZIo4-" alt="react app" />
+![React app screenshot](https://github.com/zFranco1/First-react-app/blob/main/src/images/firstreactapp.png)
